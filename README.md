@@ -11,7 +11,7 @@ Here is a working live demo: https://icarolyn.github.io/GIPHY
 
 <b>Built with</b>
 - [jQuery - AJAX](https://jquery.com)
-- [GIPHY API] (https://developers.giphy.com)
+- [GIPHY API](https://developers.giphy.com)
 
 ## License
 
