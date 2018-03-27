@@ -5,7 +5,7 @@ A webapp using the GIPHY API to display 10 gifs according to certain topics. Thi
 Here is a working live demo: https://icarolyn.github.io/GIPHY
  
 ## Screenshots
-![](https://icarolyn.github.io/GIPHY/assets/screencapture-file-Users-carolynrojsutivat-Desktop-code-GIPHY-index-html-2018-03-27-02_04_19.png)
+![](assets/screencapture-file-Users-carolynrojsutivat-Desktop-code-GIPHY-index-html-2018-03-27-02_04_19.png)
 
 ## Tech/framework used
 
