@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>GIPHY Emotions - How are you feeling today?</title>
+  <link rel="stylesheet" href="./assets/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Aclonica|Text+Me+One|Pacifico" rel="stylesheet"> 
+</head>
+
+<body>
+<div class="container">
+<figure class="snip1104 red">
+<img src="./assets/insideout.jpeg" class="header">
+<figcaption>
+    <h2>How are you <span> feeling</span> today?</h2>
+  </figcaption>
+  <a href="#"></a>
+</figure>
+<h3>Click on an emotion below. <br />Don't see one that accurately depicts how you feel? Add it to the list!</h3>
+        <!-- Rendered Buttons will get Dumped Here  -->
+        <div id="buttons-view"></div>
+        <form id="emotion-form" class="form-wrapper">
+          <!-- <label for="emotion-input">Add an Emotion</label> -->
+          <input type="text" id="emotion-input" class="input-emotion" placeholder="I feel...">
+    
+          <!-- Button triggers new emotion to be added -->
+          <input id="add-emotion" type="submit" class="add-emotion" value="Add">
+        </form>
+        <div id="gifs-appear-here">
+        </div>
+      </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="./assets/app.js"></script>
+  
+</body>
+
+</html>
